@@ -1,7 +1,7 @@
   {
-    "min_supported_version": "0.1.2.0",
+    "min_supported_version": "2.0.0.0",
     "latest_version": "0.1.2.0",
-    "message": "Update available: Remote Analysis Data Transfer 0.1.2.0.",
+    "message": "This software has been replaced by ECTHub and no longer functions",
     "download_url": "https://github.com/J0shS/BOPToolsAnalysis-Distrib/releases/latest/download/Setup_BOPToolsAnalysis.exe",
     "password_hash": "bf6118bcf6f8b2a8cb37f3e5118443bd829cf18f44d3f76c3cc1ad6882b6d61a"
 
